@@ -51,4 +51,4 @@ if gerar:
         )
 
 st.markdown("---")
-st.caption("Dica: para salvar no Drive, prefira rodar no Colab com montagem do Google Drive, ou configure credenciais do Google Drive API no Streamlit.")
+st.caption("Criado por Darliane Cunha.")
